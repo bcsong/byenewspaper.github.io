@@ -3,6 +3,6 @@
 - [媒体报道](report)
 - [相关研究](research)
 - **链接**
-- [![Github](assets/img/github.svg)Github](https://github.com/bcsong/byenewspaper)
+- [![Github](assets/img/github.svg)Github](https://github.com/higoozu/byenewspaper)
 - **鸣谢**
 - 本站使用 [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/) 搭建
